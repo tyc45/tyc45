@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Jordan Tyczynski, a french developper eager to learn as much as possible about coding and contributing to various projects.
+
+You can checkout my various repos to learn about my realizations.
+You can also get an idea of my coding level on [my codewars page](https://www.codewars.com/users/tyc45)
+
 <!--
 **tyc45/tyc45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
